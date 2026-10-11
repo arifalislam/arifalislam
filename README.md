@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.figma.com/design/vigrOWDLgm2DnASlBxFsiU/Design-Portfolio-2026?m=auto&t=NM6Kr2yITPLb8Yvw-1"><img src="https://img.shields.io/badge/Portfolio-View-6366F1?style=for-the-badge&logo=figma&logoColor=white" /></a>
+  <a href="http://arifalislam.github.io/"><img src="https://img.shields.io/badge/Portfolio-View-6366F1?style=for-the-badge&logo=figma&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mr-arif/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:arifalislam642@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://ais95.github.io/"><img src="https://img.shields.io/badge/Website-Visit-6366F1?style=for-the-badge&logo=globe&logoColor=white" /></a>
 </p>
 
 ---
