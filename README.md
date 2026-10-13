@@ -94,8 +94,8 @@ Complete UX/UI overhaul focusing on accessibility and performance.
 
 <p align="center">
   <a href="mailto:arifalislam642@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-arifalislam642@gmail.com-6366F1?style=flat-square" /></a>
-  <a href="https://ais95.github.io/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6366F1?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/mr-arif/"><img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-0A66C2?style=flat-square" /></a>
+  <a href="https://arifalislam.github.io"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6366F1?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/mr-arif"><img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-0A66C2?style=flat-square" /></a>
 </p>
 
 <p align="center">
