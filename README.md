@@ -13,16 +13,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifalislam&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifalislam&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
----
-
 ## 🧭 About Me
 
 I'm a Senior Product Designer based in Dhaka with 5+ years of experience designing SaaS products used by real teams — not just wireframes on a board. I care about the details that make a product delightful.
@@ -32,6 +22,16 @@ I'm a Senior Product Designer based in Dhaka with 5+ years of experience designi
 - 🤖 Exploring how **AI tools** can multiply a designer's output, not replace it
 - 🛠️ Also building small **software utilities** on the side (Python, automation)
 - 📍 Based in Dhaka, Bangladesh
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center" style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=arifalislam&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifalislam&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ---
 
